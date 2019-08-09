@@ -1,3 +1,7 @@
+##### Machine Learning Nanodegree Capstone Project
+
+Used transfer learning to train a model to diagnose malaria using images of cells, models used were inception v3, inception resnet and vgg19
+
 ### Steps to acquire data
 
 - Download from https://ceb.nlm.nih.gov/proj/malaria/cell_images.zip
